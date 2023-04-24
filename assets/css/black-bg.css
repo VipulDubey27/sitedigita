@@ -1,0 +1,40 @@
+
+
+:root {
+	
+	--thm-base: #333;
+	--thm-black: #333;
+
+}
+a,.btn,.sliderArrowDs-1 .owl-nav button{color:#ffff40!important}
+.blackBtnBox{display:none;}
+.whiteBtnBox {display: block;}
+body,.sectionDesNew-1.section-1 .sectionDesNewLeft,.stricky-header,.main-menu__logo,.main-menu .main-menu__list li ul, .stricky-header .main-menu__list li ul,.section-1 .boxTabArea ul,.section-1 .benefit-two__tab__title li.active-btn span, .section-1 .benefit-two__tab__title li:hover span,.benefit-two__tab__title li span,
+.sectionDesNew-1.section-1,.section-1 .latestStatisticsBox .latestStatisticsPanel .countBox,.blog-wrapper,.main-footer,.bottom-footer,
+.rtl-slider-flex .rtl-slider-nav .rtl-slider-slide,.career-one__item,.tabDsArea ul,.usefulLinksArea ul li a,.service-card__icon{background:#000;}
+.section-1 .benefit-two__tab__title li.active-btn span, .section-1 .benefit-two__tab__title li:hover span,.rtl-slider-flex .rtl-slider-nav .rtl-slider-slide{color:#ffff40;}
+
+.section-1 .boxTabArea ul li:nth-child(2n),.service-card__content__inner,.white-bg,.bgGray,.featured-imagebox-team.style1 .prt-media-link,.featured-imagebox-team.style1 .media-block .social-icons,.featured-imagebox-team.style1 .media-block .social-icons:before,
+.featured-imagebox-team.style1 .featured-imagebox-inner,.usefulLinksArea ul li a:hover{background:#282828 !important}
+
+.topHeader,.service-card__link,.clientSlider,.partnerPanel,.totalVisitorsBox,.career-one__icon,.featured-imagebox-team.style1 .featured-imagebox-inne,.resourcesPanelBox.eventBoxType.bg-area {background:#424242;}
+
+.topRightHeader img,.main-menu__logo img {
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+}
+.slider-one .owl-dot-style-one .owl-dots .owl-dot.active span{background:#ffff40 ;}
+body,.slider-one__title span,.benefit-two__tab__title li span,h1,h2,h3,h4,h5,h6,p,.footer-widget__info li>i,.title span,
+.career-one__icon,.accrodion-content ul li:after,.eventBoxType .eventDateArea ul li.table,.table tr th,.table tr td,.idexAimsArea .headingTag { color: #fff !important; }
+.dz-media img, .dz-post-media img {border: 5px solid #484848;}
+.form-control::placeholder,.contact-info li i,.service-card__icon,.blog-card__meta ul li strong,.blog-sidebar__post__author,.LatestStatisticsBox .mapLeftSection h2 span,.totalVisitorsBox{color:#fff !important;}
+.downloadPdfArea {background-color: rgb(26 26 26 / 90%);}
+.usefulLinksArea ul li a {border-left: 5px solid #1a1a1a;}
+.eventBoxType .eventDateArea {border: 1px solid #fff;}
+.blog-sidebar__item {
+    background-color: #161616;
+}
+.blog-sidebar__categories li:hover a {
+    background-color: #000;
+}
+

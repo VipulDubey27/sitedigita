@@ -1,0 +1,151 @@
+@media (max-width: 1334px) {
+	.main-menu .main-menu__list > li > a,
+	.stricky-header .main-menu__list > li > a {
+		font-size: 14px;
+	}
+	.main-menu .main-menu__list > li + li,
+	.stricky-header .main-menu__list > li + li {
+		margin-left: 25px;
+	}
+	.section-1 .boxTabArea ul li a {
+		font-size: 12px;
+	}
+  
+}
+
+@media only screen and (min-width: 1160px) and (max-width: 1225px) {
+}
+
+@media (max-width: 1024px) {
+    
+}
+
+@media (max-width: 991px) {
+	.topHeader .common-left {
+		display: none;
+	}
+	.topHeader .col.text-center.common-middle {
+		text-align: left !important;
+	}
+	.container,
+	.container-md,
+	.container-sm {
+		max-width: 90%;
+	}
+	.tabDesBox .benefit-two__tab__title li {
+		width: 25%;
+	}
+	.benefit-two__tab__content__inner .service-card__title {
+		font-size: 15px;
+	}
+	.contact-box {
+		position: relative;
+		top: 0%;
+		transform: translateY(0%);
+	}
+	.dark-bg.p-5 {
+		padding: 1rem !important;
+	}
+    .weAreReady-svg{
+        padding: 0 30px;
+    }
+    .weAreReady .weAreReady-par h4{
+        text-align: center;
+    }
+    .weAreReady .weAreReady-par h3{
+        text-align: center;
+    }
+}
+@media (max-width: 768px) {
+    .ServiceTop .serHead ul{
+        padding: 0 15px;
+    }
+    .ServiceTop .serHead ul li{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 650px) {
+	.common-middle {
+		display: none;
+	}
+	.topRightHeader {
+		margin-left: auto;
+	}
+	.main-menu__logo img {
+		height: 40px;
+	}
+	.main-menu__logo {
+		height: 60px;
+	}
+	.slider-one__title {
+		font-size: 18px;
+		line-height: 1.4em;
+	}
+	.thm-btn,
+	.thm-btn1 {
+		padding: 12px 20px;
+	}
+	.sectionBox-5 h4 {
+		font-size: 17px;
+	}
+	.sliderArrowDs-1 .owl-nav {
+		top: -70px;
+	}
+    .mainAreaSection .headerText h1 {
+        font-size: 35px;
+        line-height: 60px;
+        padding-right: 0;
+        margin-top: 50px;
+    }
+	.col-md-12.align-self-start h5 {
+		padding-right: 50px;
+		font-size: 50px;
+		line-height: 65px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+} 
+
+@media (max-width: 460px) {
+	.sliderArrowDs-1 .owl-nav {
+		top: -30px;
+	}
+    aside#ashade-aside{
+        width: 342px;
+        padding: 40px 53px 40px 15px;
+        }  
+        .ServiceTop.mt-150 .serHead h1{
+            font-size: 50px;
+        }
+        .serviceAreaTip .serviceTipaBox{
+            margin-bottom: 100px;
+        }
+        .weAreReady-svg{
+            padding: 0 30px;
+        }
+        .weAreReady .weAreReady-par h4{
+            font-size: 30px;
+            text-align: center;
+            line-height: 40px;
+        }
+        .weAreReady .weAreReady-par h3{
+            font-size: 30px;
+            text-align: center;
+            line-height: 46px;
+        }
+        .plr-100{
+            padding: 0 10px;
+        }
+        .offset-1{
+            margin-left: 0;
+        }
+        .offset-2{
+            margin-left: 0;
+        }
+        
+    }
+
+ @media (max-width: 320px) {
+    
+} 
